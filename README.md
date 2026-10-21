@@ -20,6 +20,6 @@ Exploring tools that support SCADA and process monitoring
 
 I want each project to explain the reasoning behind the code, including the assumptions, limitations, and decisions that make it useful in a manufacturing setting.
 
-For my engineering experience and broader project background, visit my professional portfolio.
+For my engineering experience and broader project background, [visit my professional portfolio](https://derick-kopischke.fitsky18.chatgpt.site/).
 
 [Connect on LinkedIn](https://www.linkedin.com/in/derick-kopischke-84654b2ab/)
